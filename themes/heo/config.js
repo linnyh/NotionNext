@@ -16,8 +16,8 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与阅读笔记',
-  HEO_HERO_TITLE_3: 'CCYH.XYZ',
-  HEO_HERO_TITLE_4: '生活随笔',
+  HEO_HERO_TITLE_3: '编程、开发、阅读、随想',
+  HEO_HERO_TITLE_4: '加缪曾说',
   HEO_HERO_TITLE_5: '对每个人而言，真正的职责只有一个：找到自我。',
   HEO_HERO_TITLE_LINK: 'https://blog.ccyh.xyz',
 
@@ -37,7 +37,6 @@ const CONFIG = {
     '🔍 分享与热心帮助',
     '🤝 JAVA 后端开发',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
